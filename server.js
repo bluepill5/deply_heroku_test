@@ -25,3 +25,15 @@ app.use('/api', require('./routes'));
 app.listen(process.env.PORT, () => {
   console.log(`Express on port ${process.env.PORT}`);
 });
+
+// git init
+
+// crear .gitignore
+
+// git add .
+
+// git commit -m "primer commit"
+
+// git remote add origin [url-de-github]
+
+// git push -u origin master
